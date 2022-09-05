@@ -1,2 +1,3 @@
 <h1 align="center">Hi 👋, I'm Nimisha</h1>
-</p>
+
+![MasterHead](https://raw.githubusercontent.com/rnimisha/rnimisha/main/image/MerryAgedArcticduck-size_restricted.gif)
