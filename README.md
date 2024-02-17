@@ -27,6 +27,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Github Action](https://img.shields.io/badge/Github%20Actions-000?logo=githubactions)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-000?logo=Apache%20Airflow)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=Apache%20Kafka)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?logo=TensorFlow)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
